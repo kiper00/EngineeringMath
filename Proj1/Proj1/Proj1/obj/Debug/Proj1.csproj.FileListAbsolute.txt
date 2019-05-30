@@ -1,0 +1,10 @@
+D:\桌面\台科各課\二下-工程數學\proj1\Proj1\Proj1\bin\Debug\Proj1.exe.config
+D:\桌面\台科各課\二下-工程數學\proj1\Proj1\Proj1\bin\Debug\Proj1.exe
+D:\桌面\台科各課\二下-工程數學\proj1\Proj1\Proj1\bin\Debug\Proj1.pdb
+D:\桌面\台科各課\二下-工程數學\proj1\Proj1\Proj1\obj\Debug\Proj1.csprojResolveAssemblyReference.cache
+D:\桌面\台科各課\二下-工程數學\proj1\Proj1\Proj1\obj\Debug\Proj1.Form1.resources
+D:\桌面\台科各課\二下-工程數學\proj1\Proj1\Proj1\obj\Debug\Proj1.Properties.Resources.resources
+D:\桌面\台科各課\二下-工程數學\proj1\Proj1\Proj1\obj\Debug\Proj1.csproj.GenerateResource.Cache
+D:\桌面\台科各課\二下-工程數學\proj1\Proj1\Proj1\obj\Debug\Proj1.csproj.CoreCompileInputs.cache
+D:\桌面\台科各課\二下-工程數學\proj1\Proj1\Proj1\obj\Debug\Proj1.exe
+D:\桌面\台科各課\二下-工程數學\proj1\Proj1\Proj1\obj\Debug\Proj1.pdb
